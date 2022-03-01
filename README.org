@@ -1,1 +1,7 @@
 * Coding every day
+** DOING Python
+*** DOING Syntax
+*** TODO Data structure
+*** TODO Algorithm
+
+** TODO JavaScript
