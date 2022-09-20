@@ -2,7 +2,7 @@ import requests, re
 import hashlib
 import urllib.parse
 from urllib.request import urlopen
-url = "http://120.27.195.236:28991/Level___3.php"
+url = "http://localhost:1414/Level___3.php"
 url2 = "localhost/md5test.php"
 s = requests.Session()
 
